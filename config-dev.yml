@@ -1,4 +1,4 @@
 config:
-  info: "hello springcloud-version-3"
-  version: 3
-  age: 20
+  info: "hello springcloud-version-5"
+  version: 5
+  age: 25
