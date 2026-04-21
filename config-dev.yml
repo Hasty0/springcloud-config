@@ -1,1 +1,2 @@
-config: info: "hello springcloud"
+config:
+  info: "hello springcloud"
